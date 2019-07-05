@@ -2,3 +2,4 @@
 Git is free software.
 LICENSE
 LICENSE
+TEST
